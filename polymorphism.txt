@@ -1,0 +1,19 @@
+Define polymorphism in how it relates to Computer Science and give an example.
+
+
+
+Polymorphsim is an object oriented programming concept. Simply put, it means a variable,
+object or function can take on multiple forms. 
+
+The simplest explanation that I read to explain polymorphism is this:
+
+There is a base class named Animals, which has the subclasses Horse, Fish and Bird.
+
+The Animals class has a function named Move that the subclasses inherit.
+
+Polymorphism means that each subclass has its own way of implementing the function.....
+When the Move function is called on a Horse object, the function may respond by displaying trotting 
+on the screen. When Move is called on a Fish object it may respond by displaying swimming on the 
+screen. And when Move is called on a Bird object, it may display flying on the screen.
+
+
